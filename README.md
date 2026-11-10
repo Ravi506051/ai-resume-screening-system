@@ -35,3 +35,10 @@ The implementation in this repository is newly authored for this portfolio and i
 
 ## License
 No license has been added yet. Add a license before redistributing this repository.
+
+## Fairness, Explainability, and Privacy
+
+- Show the terms or skills that contribute to a match score so results can be reviewed.
+- Evaluate matching quality on varied job descriptions and resume formats, including cases with equivalent skills expressed differently.
+- Avoid using protected or irrelevant personal attributes in candidate ranking.
+- Handle resumes as sensitive personal data, restrict access, and define clear retention and deletion practices.
